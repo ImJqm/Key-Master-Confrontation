@@ -14,3 +14,6 @@ asdasd
 
 -Dash cooldown is indicated by the icon in the lower left-hand corner
 
+**How do I play?**
+-------------------------
+Simply navigate to the releases, select the lastested release, and click on the link
