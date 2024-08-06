@@ -17,3 +17,7 @@ asdasd
 **How do I play?**
 -------------------------
 Simply navigate to the releases, select the lastested release, and click on the link
+
+**Credits**
+---------------
+A very large thanks to Rishi B and Gael A for playing huge roles in the production of this project. It would not be possible without them.
